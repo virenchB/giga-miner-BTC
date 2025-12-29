@@ -1,1 +1,55 @@
 
+{
+  "android": {
+    "app_id": "ca-app-pub-4393670141189849~7451204518",
+    "banner_ad_unit_id": "",
+    "banner_ad_unit_id_fallback": "ca-app-pub-4393670141189849/7545190397",
+    "interstitial_ad_unit_id": "",
+    "interstitial_ad_unit_id_fallback": "ca-app-pub-4393670141189849/6712837917",
+    "native_ad_unit_id": "",
+    "native_ad_unit_id_fallback": "ca-app-pub-4393670141189849/1895625504",
+    "rewarded_ad_unit_id": "",
+    "rewarded_ad_unit_id_fallback": "ca-app-pub-4393670141189849/3156736280",
+    "app_open_ad_unit_id": "",
+    "app_open_ad_unit_id_fallback": "ca-app-pub-4393670141189849/8301251750"
+  },
+  "ios": {
+    "app_id": "ca-app-pub-9490496565812282~1816348152",
+    "banner_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_BANNER_ID",
+    "banner_ad_unit_id_fallback": "ca-app-pub-4393670141189849/7545190397",
+    "interstitial_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_INTERSTITIAL_ID",
+    "interstitial_ad_unit_id_fallback": "ca-app-pub-4393670141189849/6712837917",
+    "native_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_NATIVE_ID",
+    "native_ad_unit_id_fallback": "ca-app-pub-4393670141189849/1895625504",
+    "rewarded_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_REWARDED_ID",
+    "rewarded_ad_unit_id_fallback": "ca-app-pub-4393670141189849/3156736280",
+    "app_open_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_APP_OPEN_ID",
+    "app_open_ad_unit_id_fallback": "ca-app-pub-4393670141189849/8301251750"
+  },
+  "facebook": {
+    "app_id": "1511379913523939",
+    "banner_ad_unit_id": "815329847934337_815330717934250",
+    "interstitial_ad_unit_id": "815329847934337_815330824600906",
+    "native_ad_unit_id": "815329847934337_815330991267556",
+    "rewarded_ad_unit_id": "815329847934337_815331117934210"
+  },
+  "unity": {
+    "game_id": "1234567",
+    "android": {
+      "banner_placement_id": "Banner_Android",
+      "interstitial_placement_id": "Interstitial_Android",
+      "rewarded_placement_id": "Rewarded_Android"
+    },
+    "ios": {
+      "banner_placement_id": "Banner_iOS",
+      "interstitial_placement_id": "Interstitial_iOS",
+      "rewarded_placement_id": "Rewarded_iOS"
+    }
+  },
+  "test_mode": false,
+  "ad_frequency": {
+    "interstitial_interval": 3,
+    "rewarded_ads_per_day": 10,
+    "banner_refresh_rate": 60
+  }
+}
